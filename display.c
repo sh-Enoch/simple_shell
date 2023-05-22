@@ -4,7 +4,7 @@
  */
 void prompt(void)
 {
-	show("$");
+	show("Hello_champ$ ");
 }
 /**
  * show_error - display error
